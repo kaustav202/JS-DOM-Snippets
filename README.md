@@ -45,7 +45,7 @@ There can be several approaches that do the same thing but are welcome as it is 
 
 ## Instructions :-
 
-- Read The [Contributing Guidelines](./.github/ContributingGuidelines.md) and [Code Of Conduct](./.github/CODE_OF_CONDUCT.MD)
+- Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./CODE_OF_CONDUCT.md)
 
 #### Steps To Contribute :-
 
