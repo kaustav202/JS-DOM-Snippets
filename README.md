@@ -1,4 +1,10 @@
-# js-dom-snippets
+# JS-DOM-SNIPPETS
+
+<!-- Gif -->
+</br>
+
+## Introduction 📜
+</br>
  Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository.
  
  ![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)</br>
@@ -19,3 +25,61 @@ In programming and scripting there is no one method that's the
 > best way
 
 There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
+
+
+
+### Features
+
+- Any script that shows DOM element manipualtion
+- The working of a specific js method
+- Any technique that's commonly used utilising js
+- A sub feature or app
+
+### Tech Stack 💻
+
+</br>
+
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp; <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ 
+
+
+## Instructions :-
+
+- Read The [Contributing Guidelines](./.github/ContributingGuidelines.md) and [Code Of Conduct](./.github/CODE_OF_CONDUCT.MD)
+
+#### Steps To Contribute :-
+
+- Fork this Repository.
+- Clone the Repository: `git clone "url of this repo"`
+- Raise an issue.
+- Wait for the issue to be assigned to you.
+- Create a branch: `git checkout -b <your-new-branch-name>`
+- Put your code :-
+
+  - Make a new folder in `Snippets` folder.
+  - Put Your code files (e.g. index.html, style.css, app.js) into your newely created folder.
+  - Add all neccessary information like functionalities, screenshots, working video(if required) in the `readme.md` file. (you will have to create it in your newely created folder)
+  - Add your folder's link in the main readme.md file of the repo.
+
+- Push changes to GitHub: `git push origin <add-your-branch-name>`
+- Submit your changes for review.
+- And Boom! You're done 🥳
+- I will review and merge your changes into the master branch of this project. You will be automatically notified via E-mail once the changes have been merged.
+
+---
+
+# Snippet List 📑
+
+| No            | Name Of Snippet                                                |  
+| ------------- |:---------------------------------------------------------------| 
+| 1             | URL                                                            |
+
+<h2> Project Maintainer ⚡ </h2>
+  <a href="https://github.com/kaustav202"></a>
+
+---
+
+## Contribution is fun! 🧡
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
