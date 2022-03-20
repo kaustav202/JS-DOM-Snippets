@@ -28,6 +28,7 @@ This repo hosts such inventive , original and practical scripts as well as basic
 
 Knowing DOM manipulation is very important if we want to do any kind of development work. It finds it's application in almost in every project or has some elements of it weather it's  Web , Mobile , Front-end or even back-end. It's also common that most of the code is in other languages but it's ubiquitous, since “web interfaces” (HTTP/HTML/CSS/JavaScript) have become the standard in how to deliver applications to people, both on the consumer side and on the enterprise side.
 
+Even frameworks such as angular , node , vue , react encapsulate and hide the DOM directly but still require working with the DOM at a certain level.
 
 ### Features
 
