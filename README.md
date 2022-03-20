@@ -7,8 +7,11 @@
 </br>
 
 <b> Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository. </b> 
- 
- </br>
+
+<b> The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels. 
+
+The DOM structure and style can be manipulated by a scripting language (typically JS) that leads to infinite possibilities only limited by your creativity. This repo hosts such inventive , original as well as practical scripts to help beginners get up to speed and provide something new to experts.</b>
+
  </br>
  
  
@@ -19,12 +22,6 @@
 ![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)
 
 </br>
-
-<b> The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels to them. 
-
-The DOM structure and style can be manipulated by a scripting language (typically JS) that leads to infinite possibilities only limited by your creativity.
-
-This repo hosts such inventive , original as well as practical scripts to help beginners get upto speed and provide something new to experts.</b>
 
 Knowing DOM manipulation is very important if we want to do any kind of software development work. It's ubiquitous and finds it's application everywhere weather it's  web , mobile , front-end or even back-end. Even in projects where most of the code is in other languages there is some element of it , since “web interfaces” (HTTP/HTML/CSS/JavaScript) have become the standard in how to deliver applications to people, both on the consumer side and on the enterprise side.
 Even frameworks such as angular , node , vue , react encapsulate and hide the DOM directly but still require working with the DOM at a certain level.
