@@ -31,14 +31,16 @@ Even frameworks such as angular , node , vue , react encapsulate and hide the DO
 - [x] Any script that shows DOM element manipualtion
 - [x] Any script that shows the working of a specific js method
 - [x] Any JS techniques that's commonly used.
-- [x] A sub feature or app that implements a specific functionality.
 - [x] Implementation of a specific functionality.
-- [x] Live Demos
-- [x] Small and easy to understand examples
+- [x] Live Demos or easy to understand examples.
 
 In programming and scripting there is no one method that's the `best way`.
 There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
 Also coming up with more than 1 solution is very important for those who are in a learning phase, this may help in broadening the overall understanding of the language.
+
+**Note :**
+- No external libraries , only native browser's APIs and vanilla JS.
+- Work with modern browsers. Try to support IE 11.
 
 ### Languages 
 
