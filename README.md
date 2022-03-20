@@ -29,7 +29,7 @@ Also coming up with more than 1 solution is very important for those who are in 
 ### Features
 
 - Any script that shows DOM element manipualtion
-- The working of a specific js method
+- Any script that shows the working of a specific js method
 - Any technique that's commonly used utilising js
 - A sub feature or app
 
@@ -41,7 +41,7 @@ Also coming up with more than 1 solution is very important for those who are in 
  
 
 
-## Instructions :-
+## Instructions
 
 - Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md)
 
@@ -80,4 +80,5 @@ Also coming up with more than 1 solution is very important for those who are in 
 ## Happy Contributing! 🧡
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 Star Mark this repository and keep contributing as you learn!!
