@@ -30,8 +30,8 @@ Also coming up with more than 1 solution is very important for those who are in 
 
 - Any script that shows DOM element manipualtion
 - Any script that shows the working of a specific js method
-- Any technique that's commonly used utilising js
-- A sub feature or app
+- Any JS techniques that's commonly used.
+- A sub feature or app that implements a specific functionality.
 
 ### Tech Stack 💻
 
