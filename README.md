@@ -5,22 +5,17 @@
 
 ## Introduction 📜
 </br>
-Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository.
+Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository. 
+ 
+ </br>
+ </br>
+ 
  
 ![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)</br>
 
-![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)&nbsp; &nbsp;![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)
- &nbsp;
- 
-![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)&nbsp;&nbsp;
+![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)&nbsp; &nbsp;![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)&nbsp;&nbsp;![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) &nbsp; &nbsp; ![Maintainer](https://img.shields.io/badge/maintainer-Kaustav-blue)&nbsp; &nbsp;![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)
 
-
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) &nbsp; &nbsp; ![Maintainer](https://img.shields.io/badge/maintainer-Kaustav-blue)&nbsp; &nbsp;
-![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)
-
-![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)&nbsp;&nbsp;
-![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)&nbsp;&nbsp;
-![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)
+![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)
 
 In programming and scripting there is no one method that's the 
 > best way
@@ -80,7 +75,7 @@ Also coming up with more than 1 solution is very important for those who are in 
 
 ---
 
-## Contribution is fun! 🧡
+## Happy Contributing! 🧡
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
