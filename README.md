@@ -5,7 +5,8 @@
 
 ## Introduction 📜
 </br>
-Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository. 
+
+<b> Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS through the scripts and snippets on this repository. </b> 
  
  </br>
  </br>
@@ -17,8 +18,9 @@ Quick Start to JS for beginners . Get up to speed with DOM manipulation using JS
 
 ![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)&nbsp;&nbsp;![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)&nbsp;&nbsp;![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)&nbsp;&nbsp;![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)
 
-In programming and scripting there is no one method that's the 
-> best way
+</br>
+
+In programming and scripting there is no one method that's the `best way`.
 
 There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
 Also coming up with more than 1 solution is very important for those who are in a learning phase, this may help in broadening the overall understanding of the language.
