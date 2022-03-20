@@ -30,7 +30,7 @@ Knowing DOM manipulation is very important if we want to do any kind of developm
 
 Even frameworks such as angular , node , vue , react encapsulate and hide the DOM directly but still require working with the DOM at a certain level.
 
-### Features
+### Contribution Features
 
 - Any script that shows DOM element manipualtion
 - Any script that shows the working of a specific js method
