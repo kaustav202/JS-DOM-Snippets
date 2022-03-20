@@ -20,11 +20,11 @@
 
 </br>
 
-The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels to them. 
+<b> The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels to them. 
 
 The DOM structure and style can be manipulated by a scripting language (typically JS) that leads to infinite possibilities only limited by your creativity.
 
-This repo hosts such inventive , original as well as practical scripts to help beginners get upto speed and provide something new to experts.
+This repo hosts such inventive , original as well as practical scripts to help beginners get upto speed and provide something new to experts.</b>
 
 Knowing DOM manipulation is very important if we want to do any kind of software development work. It's ubiquitous and finds it's application everywhere weather it's  web , mobile , front-end or even back-end. Even in projects where most of the code is in other languages there is some element of it , since “web interfaces” (HTTP/HTML/CSS/JavaScript) have become the standard in how to deliver applications to people, both on the consumer side and on the enterprise side.
 Even frameworks such as angular , node , vue , react encapsulate and hide the DOM directly but still require working with the DOM at a certain level.
@@ -52,7 +52,7 @@ Also coming up with more than 1 solution is very important for those who are in 
 
 - Read The [Contributing Guidelines](./Contributions.md) and [Code Of Conduct](./Code_Of_Conduct.md)
 
-#### Steps To Contribute :-
+#### Steps To Contribute
 
 - Fork this Repository.
 - Clone the Repository: `git clone "url of this repo"`
@@ -79,7 +79,7 @@ Also coming up with more than 1 solution is very important for those who are in 
 | ------------- |:---------------------------------------------------------------| 
 | 1             | URL                                                            |
 
-<h2> Project Maintainer ⚡ </h2>
+<h2> Project Maintainers ⚡ </h2>
   <a href="https://github.com/kaustav202"></a>
 
 ---
