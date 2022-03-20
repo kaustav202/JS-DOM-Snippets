@@ -41,7 +41,7 @@ In programming and scripting there is no one method that's the `best way`.
 There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
 Also coming up with more than 1 solution is very important for those who are in a learning phase, this may help in broadening the overall understanding of the language.
 
-### Tech Stack 💻
+### Tech Stack
 
 </br>
 
