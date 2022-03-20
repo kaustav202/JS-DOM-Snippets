@@ -28,10 +28,13 @@ Even frameworks such as angular , node , vue , react encapsulate and hide the DO
 
 ### Contribution Features
 
-- Any script that shows DOM element manipualtion
-- Any script that shows the working of a specific js method
-- Any JS techniques that's commonly used.
-- A sub feature or app that implements a specific functionality.
+- [x] Any script that shows DOM element manipualtion
+- [x] Any script that shows the working of a specific js method
+- [x] Any JS techniques that's commonly used.
+- [x] A sub feature or app that implements a specific functionality.
+- [x] Implementation of a specific functionality.
+- [x] Live Demos
+- [x] Small and easy to understand examples
 
 In programming and scripting there is no one method that's the `best way`.
 There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
