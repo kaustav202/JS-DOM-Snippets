@@ -20,9 +20,13 @@
 
 </br>
 
-In programming and scripting there is no one method that's the `best way`.
-There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
-Also coming up with more than 1 solution is very important for those who are in a learning phase, this may help in broadening the overall understanding of the language.
+The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels to them. 
+
+The DOM structure and style can be manipulated by a scripting language (typically JS) that leads to infinite possibilities only limited by your creativity.
+
+This repo hosts such inventive , original and practical scripts as well as basics to help beginners get upto speed.
+
+Knowing DOM manipulation is very important if we want to do any kind of development work. It finds it's application in almost in every project or has some elements of it weather it's  Web , Mobile , Front-end or even back-end. It's also common that most of the code is in other languages but it's ubiquitous, since “web interfaces” (HTTP/HTML/CSS/JavaScript) have become the standard in how to deliver applications to people, both on the consumer side and on the enterprise side.
 
 
 ### Features
@@ -31,6 +35,10 @@ Also coming up with more than 1 solution is very important for those who are in 
 - Any script that shows the working of a specific js method
 - Any JS techniques that's commonly used.
 - A sub feature or app that implements a specific functionality.
+
+In programming and scripting there is no one method that's the `best way`.
+There can be several approaches that do the same thing but are welcome as it is always useful to add new techniques to your skillset.
+Also coming up with more than 1 solution is very important for those who are in a learning phase, this may help in broadening the overall understanding of the language.
 
 ### Tech Stack 💻
 
