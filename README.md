@@ -8,11 +8,12 @@
 </br>
 
 ## Introduction 📜
+
+### Get up to speed with DOM manipulation techniques using JS and more through these scripts and snippets. </b> 
+
 </br>
 
-<b>Get up to speed with DOM manipulation techniques using JS and more through the scripts and snippets on this repository. </b> 
-
-<b> The HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels. 
+<b>HTML or XML documents expose an interface knowns as DOM (Document Object Model) to the browser, it's tags provide structure and hierarchy or parent-child relationships among the elements and also act as labels. 
 
 The DOM structure and style can be manipulated by a scripting language (typically JS) that leads to infinite possibilities only limited by your creativity. This repo hosts collection of such exciting features as well as practical snippets to help beginners get up to speed and provide something new to intermediates and experts alike.</b>
 
