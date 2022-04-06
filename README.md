@@ -1,6 +1,7 @@
 # JS-DOM-SNIPPETS
 
-![JS (1)](https://user-images.githubusercontent.com/89788120/161910546-1cea2feb-90d0-472b-b0ea-ddb9dfbed20b.png)
+
+![JS (5)](https://user-images.githubusercontent.com/89788120/161913757-efee9a07-14ee-4b14-a3d2-4dd958fa1b5c.png)
 
 
 <!-- Gif -->
