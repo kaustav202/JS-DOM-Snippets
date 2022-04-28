@@ -20,3 +20,8 @@ A pending promise can either be fulfilled with a value or rejected with a reason
 so there is no race condition between an asynchronous operation completing and its handlers being attached.
 
 As the Promise.prototype.then() and Promise.prototype.catch() methods return promises, they can be chained.
+
+## Constructor
+
+Promise()
+Creates a new Promise object. The constructor is primarily used to wrap functions that do not already support promises.
