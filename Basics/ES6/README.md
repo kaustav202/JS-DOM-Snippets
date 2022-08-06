@@ -34,7 +34,17 @@ my_func(...args)
 
 const a,b,c = [6,4,7]
 
-### For of loop
+### for-of  and for-in loop 
+
+Both iterate over objects, but with subtle differences.
+
+**for in** -> It loops over ennumerable properties of any object and hence it's the general purpose loop.
+
+for(const i in arr){</br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // console.log(i) </br>
+ }
+
+**for of** -> It is an object specific iterator that allows iterating directly over the generated values.
 
 for(const element of array){ </br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   // Do something  </br>
