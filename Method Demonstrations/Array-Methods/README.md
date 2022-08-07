@@ -1,6 +1,8 @@
 
 ## Quick Overview
 
+Javascript arrays are iterable collections containing variable data types and resizable as per requirement. They inherit from Array.prototype which is it's object type. It provides a number of useful members for various operations on these objects.
+
 ### Creation
 
 - **new &nbsp; Array(...arg)**   &nbsp;&nbsp;   *length (single arg) or values (multiple args)*
